@@ -1,0 +1,53 @@
+{
+  "blogs": [
+    {
+      "id": 0,
+      "title": "Mango",
+      "category": "Food",
+      "desc": "Its about fruit"
+    },
+    {
+      "id": 1,
+      "title": "Apple",
+      "category": "Food",
+      "desc": "It is also a fruit"
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "name": "Manish",
+      "pass": "manish"
+    },
+    {
+      "id": 1,
+      "name": "Kumar",
+      "pass": "manish"
+    },
+    {
+      "name": "manish",
+      "pass": "pass",
+      "id": 2
+    },
+    {
+      "name": "abhijeet",
+      "pass": "abhi",
+      "id": 3
+    },
+    {
+      "name": "kawale",
+      "pass": "kaw",
+      "id": 4
+    },
+    {
+      "name": "aman",
+      "pass": "aman",
+      "id": 5
+    },
+    {
+      "name": "nishant",
+      "pass": "123",
+      "id": 6
+    }
+  ]
+}
